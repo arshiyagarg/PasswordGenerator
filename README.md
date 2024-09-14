@@ -1,6 +1,4 @@
-<h1>Password Generator Password</h1>
-
-<p>Generate strong Passwords of variable length</p>
+<h1>Password Generator </h1>
 
 <h2>Demo Video</h2>
 
